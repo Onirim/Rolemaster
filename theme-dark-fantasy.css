@@ -485,7 +485,7 @@ a:hover { color: var(--accent2); }
   line-height: 1.8;
 }
 .background-field textarea:focus { border-color: var(--accent); }
-.background-preview { font-family: 'IM Fell English', Georgia, serif; font-size: 13px; line-height: 1.8; font-style: italic; color: var(--text2); }
+.background-preview { font-family: 'IM Fell English', Georgia, serif; font-size: 14px; line-height: 1.8; color: var(--text2); }
 
 /* XP */
 .xp-field { background: var(--bg3); border: 1px solid var(--border); border-radius: 2px; }
