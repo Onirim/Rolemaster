@@ -129,7 +129,7 @@ a:hover { color: #5bbdaa; }
 /* Boutons nav — Spectral, pas d'italique */
 #topbar nav button {
   font-family: var(--font-body);
-  font-size: 10px;
+  font-size: 12px;
   font-weight: 600;
   /*letter-spacing: 0.04em;*/
   color: var(--text3);
@@ -145,6 +145,10 @@ a:hover { color: #5bbdaa; }
   color: var(--accent);
   background: rgba(74,158,140,0.1);
   box-shadow: inset 0 -2px 0 var(--accent);
+}
+@media (max-width: 768px) {
+  #topbar nav button { padding: 5px 5px; font-size: 11px; }
+  #topbar .logo { font-size: 16px; }
 }
 
 /* Bouton partage */
