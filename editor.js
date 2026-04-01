@@ -86,6 +86,8 @@ function _updateShareCodeBox() {
 function _renderLevelCtrl() {
   const display = document.getElementById('f-level-display');
   if (display) display.textContent = state.level || 1;
+  const hiddenInput = document.getElementById('f-level');
+  if (hiddenInput) hiddenInput.value = state.level || 1;
   _updateBudgetDisplay();
 }
 
@@ -206,7 +208,7 @@ function updatePreview() {
   state.name       = document.getElementById('f-name').value;
   state.subtitle   = document.getElementById('f-sub').value;
   state.background = document.getElementById('f-background')?.value || '';
-  state.level      = Math.max(1, Number(document.getElementById('f-level')?.value) || state.level || 1);
+  state.level      = Math.max(1, Number(state.level) || 1);
 
   const pubCb = document.getElementById('f-public');
   if (pubCb) {
