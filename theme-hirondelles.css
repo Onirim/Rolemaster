@@ -93,7 +93,7 @@ html, body {
   inset: 0;
   z-index: -1;
 
-  background-image: url("/pictures/fond.svg");
+  background-image: url("/Hirondelles/pictures/fond.svg");
   background-repeat: no-repeat;
   background-position: center center; /* centré */
   background-size: cover;             /* mise à l'échelle */
