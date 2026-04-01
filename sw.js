@@ -6,24 +6,24 @@
 //   - Images Supabase → Network First avec fallback cache
 // ══════════════════════════════════════════════════════════════
 
-const CACHE_NAME = 'hirondelles-v10';
+const CACHE_NAME = 'Hirondelles-v11';
 
 // Assets mis en cache dès l'installation
 const PRECACHE_ASSETS = [
-  '/hirondelles/',
-  '/hirondelles/index.html',
-  '/hirondelles/styles.css',
-  '/hirondelles/chronicles.css',
-  '/hirondelles/documents.css',
-  '/hirondelles/campaigns.css',
-  '/hirondelles/i18n.js',
-  '/hirondelles/supabase-client.js',
-  '/hirondelles/scripts.js',
-  '/hirondelles/editor.js',
-  '/hirondelles/chronicles.js',
-  '/hirondelles/documents.js',
-  '/hirondelles/campaigns.js',
-  '/hirondelles/tags.js',
+  '/Hirondelles/',
+  '/Hirondelles/index.html',
+  '/Hirondelles/styles.css',
+  '/Hirondelles/chronicles.css',
+  '/Hirondelles/documents.css',
+  '/Hirondelles/campaigns.css',
+  '/Hirondelles/i18n.js',
+  '/Hirondelles/supabase-client.js',
+  '/Hirondelles/scripts.js',
+  '/Hirondelles/editor.js',
+  '/Hirondelles/chronicles.js',
+  '/Hirondelles/documents.js',
+  '/Hirondelles/campaigns.js',
+  '/Hirondelles/tags.js',
 ];
 
 // ── Installation : pré-cache des assets statiques ─────────────
