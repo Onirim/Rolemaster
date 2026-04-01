@@ -147,7 +147,7 @@ a:hover { color: #5bbdaa; }
   box-shadow: inset 0 -2px 0 var(--accent);
 }
 @media (max-width: 768px) {
-  #topbar nav button { padding: 5px 5px; font-size: 11px; }
+  #topbar nav button { padding: 5px 3px; font-size: 9px; }
   #topbar .logo { font-size: 16px; }
 }
 
