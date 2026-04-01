@@ -116,14 +116,14 @@ a:hover { color: #5bbdaa; }
   letter-spacing: 0.08em;
   color: var(--accent);
   text-transform: none;
-  font-style: italic;
+  /*font-style: italic;*/
 }
 #topbar .logo span {
   color: var(--text3);
   font-family: 'Cormorant Garamond', Georgia, serif;
   font-weight: 400;
   font-size: 15px;
-  font-style: italic;
+  /*font-style: italic;*/
 }
 
 /* Boutons de navigation */
@@ -208,11 +208,11 @@ a:hover { color: #5bbdaa; }
   color: var(--text);
   text-shadow: 0 0 40px rgba(74,158,140,0.12);
 }
-.list-header h1 span { color: var(--accent); font-style: italic; }
+.list-header h1 span { color: var(--accent); /*font-style: italic;*/ }
 .list-header .count {
   font-family: 'Cormorant Garamond', Georgia, serif;
   font-size: 12px;
-  font-style: italic;
+  /*font-style: italic;*/
   letter-spacing: 0.06em;
   color: var(--text3);
 }
@@ -259,7 +259,7 @@ a:hover { color: #5bbdaa; }
 .char-card .card-sub {
   font-family: 'Cormorant Garamond', Georgia, serif;
   font-style: italic;
-  font-size: 13px;
+  /*font-size: 13px;*/
   color: var(--text3);
 }
 .char-card .card-rank {
@@ -461,7 +461,7 @@ a:hover { color: #5bbdaa; }
   font-size: 14px;
   color: var(--text2);
 }
-.compl-detail { font-size: 12px; color: var(--text3); font-style: italic; }
+.compl-detail { font-size: 12px; color: var(--text3); /*font-style: italic;*/ }
 
 /* Background */
 .background-field textarea {
@@ -536,12 +536,12 @@ a:hover { color: #5bbdaa; }
   font-weight: 600;
   letter-spacing: 0.06em;
   color: var(--text);
-  font-style: italic;
+  /*font-style: italic;*/
   line-height: 1.1;
 }
 .preview-sub {
   font-family: 'Cormorant Garamond', Georgia, serif;
-  font-style: italic;
+ /*font-style: italic;*/
   font-size: 13px;
   color: var(--text3);
   margin-top: 6px;
@@ -646,25 +646,25 @@ a:hover { color: #5bbdaa; }
 
 .chr-card-title {
   font-family: 'Cormorant SC', Georgia, serif; font-size: 17px; font-weight: 600;
-  letter-spacing: 0.04em; color: var(--text); font-style: italic;
+  letter-spacing: 0.04em; color: var(--text); /*font-style: italic;*/
 }
-.chr-card-desc { font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: 12px; color: var(--text3); }
+.chr-card-desc { font-family: 'Cormorant Garamond', Georgia, serif; /*font-style: italic;*/ font-size: 12px; color: var(--text3); }
 .chr-card-entry-count { font-family: 'Share Tech Mono', monospace; font-size: 10px; color: var(--accent); }
-.chr-card-last-date { font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: 11px; color: var(--text3); }
+.chr-card-last-date { font-family: 'Cormorant Garamond', Georgia, serif; /*font-style: italic;*/ font-size: 11px; color: var(--text3); }
 
 /* Détail chronique */
 .chr-detail-title {
   font-family: 'Cormorant SC', Georgia, serif; font-size: 26px; font-weight: 600;
-  letter-spacing: 0.04em; color: var(--text); font-style: italic;
+  letter-spacing: 0.04em; color: var(--text); /*font-style: italic;*/
 }
-.chr-detail-desc { font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: 14px; color: var(--text3); }
+.chr-detail-desc { font-family: 'Cormorant Garamond', Georgia, serif; /*font-style: italic;*/ font-size: 14px; color: var(--text3); }
 
 /* Entrées */
 .entry-row { background: var(--bg2); border: 1px solid var(--border); border-radius: 2px; }
 .entry-row:hover { border-color: var(--border2); transform: translateX(4px); }
-.entry-row-title { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 14px; font-style: italic; color: var(--text); }
+.entry-row-title { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 14px; /*font-style: italic;*/ color: var(--text); }
 .entry-row-date { font-family: 'Share Tech Mono', monospace; font-size: 9px; color: var(--text3); }
-.entry-row-preview { font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: 12px; color: var(--text3); }
+.entry-row-preview { font-family: 'Cormorant Garamond', Georgia, serif; /*font-style: italic;*/ font-size: 12px; color: var(--text3); }
 
 /* Breadcrumb */
 .chr-reader-breadcrumb {
@@ -676,9 +676,9 @@ a:hover { color: #5bbdaa; }
 /* Lecteur Markdown — Chroniques */
 .chr-reader-title {
   font-family: 'Cormorant SC', Georgia, serif; font-size: 30px; font-weight: 600;
-  letter-spacing: 0.04em; color: var(--text); font-style: italic;
+  letter-spacing: 0.04em; color: var(--text); /*font-style: italic;*/
 }
-.chr-reader-meta { font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: 12px; color: var(--text3); }
+.chr-reader-meta { font-family: 'Cormorant Garamond', Georgia, serif; /*font-style: italic;*/ font-size: 12px; color: var(--text3); }
 .chr-reader-body { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 16px; color: var(--text2); line-height: 1.9; }
 .chr-reader-body h1, .chr-reader-body h2, .chr-reader-body h3 {
   font-family: 'Cormorant SC', Georgia, serif; font-weight: 600; letter-spacing: 0.06em; color: var(--text);
@@ -687,10 +687,10 @@ a:hover { color: #5bbdaa; }
 .chr-reader-body h2 { font-size: 19px; }
 .chr-reader-body h3 { font-size: 15px; color: var(--text3); }
 .chr-reader-body strong { color: var(--text); font-weight: 600; }
-.chr-reader-body em { color: var(--accent); font-style: italic; }
+.chr-reader-body em { color: var(--accent); /*font-style: italic;*/ }
 .chr-reader-body blockquote {
   border-left: 2px solid var(--sup); background: rgba(122,106,172,0.06);
-  border-radius: 0 2px 2px 0; font-style: italic; color: var(--text2);
+  border-radius: 0 2px 2px 0; /*font-style: italic;*/ color: var(--text2);
 }
 .chr-reader-body code {
   font-family: 'Share Tech Mono', monospace; font-size: 12px;
@@ -726,16 +726,16 @@ a:hover { color: #5bbdaa; }
 .doc-card:hover { border-color: var(--border2); box-shadow: 0 8px 28px rgba(0,0,0,0.4); }
 .doc-card-title {
   font-family: 'Cormorant SC', Georgia, serif; font-size: 17px; font-weight: 600;
-  letter-spacing: 0.04em; color: var(--text); font-style: italic;
+  letter-spacing: 0.04em; color: var(--text); /*font-style: italic;*/
 }
-.doc-card-preview { font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: 12px; color: var(--text3); }
+.doc-card-preview { font-family: 'Cormorant Garamond', Georgia, serif; /*font-style: italic;*/ font-size: 12px; color: var(--text3); }
 
 /* Lecteur document */
 .doc-reader-title {
   font-family: 'Cormorant SC', Georgia, serif; font-size: 36px; font-weight: 600;
-  letter-spacing: 0.04em; color: var(--text); font-style: italic;
+  letter-spacing: 0.04em; color: var(--text); /*font-style: italic;*/
 }
-.doc-reader-meta { font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: 12px; color: var(--text3); }
+.doc-reader-meta { font-family: 'Cormorant Garamond', Georgia, serif; /*font-style: italic;*/ font-size: 12px; color: var(--text3); }
 .doc-reader-body { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 17px; color: var(--text2); line-height: 1.9; }
 .doc-reader-body h1, .doc-reader-body h2, .doc-reader-body h3 {
   font-family: 'Cormorant SC', Georgia, serif; font-weight: 600; letter-spacing: 0.06em; color: var(--text);
@@ -744,10 +744,10 @@ a:hover { color: #5bbdaa; }
 .doc-reader-body h2 { font-size: 22px; }
 .doc-reader-body h3 { font-size: 17px; color: var(--text3); }
 .doc-reader-body strong { color: var(--text); font-weight: 600; }
-.doc-reader-body em { color: var(--accent); font-style: italic; }
+.doc-reader-body em { color: var(--accent); /*font-style: italic;*/ }
 .doc-reader-body blockquote {
   border-left: 2px solid var(--def); background: rgba(58,122,176,0.06);
-  border-radius: 0 2px 2px 0; font-style: italic; color: var(--text2);
+  border-radius: 0 2px 2px 0; /*font-style: italic;*/ color: var(--text2);
 }
 .doc-reader-body code {
   font-family: 'Share Tech Mono', monospace; font-size: 13px;
@@ -767,7 +767,7 @@ a:hover { color: #5bbdaa; }
 .doc-title-field input {
   border-bottom: 2px solid var(--border);
   font-family: 'Cormorant SC', Georgia, serif; font-size: 20px; font-weight: 600;
-  letter-spacing: 0.04em; font-style: italic;
+  letter-spacing: 0.04em; /*font-style: italic;*/
   color: var(--text); background: transparent;
 }
 .doc-title-field input:focus { border-bottom-color: var(--def); }
@@ -794,12 +794,12 @@ a:hover { color: #5bbdaa; }
 .campaign-card:hover { border-color: var(--border2); box-shadow: 0 8px 28px rgba(0,0,0,0.4); }
 .campaign-card-title {
   font-family: 'Cormorant SC', Georgia, serif; font-size: 19px; font-weight: 600;
-  letter-spacing: 0.04em; color: var(--text); font-style: italic;
+  letter-spacing: 0.04em; color: var(--text); /*font-style: italic;*/
 }
-.campaign-card-desc { font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: 12px; color: var(--text3); }
+.campaign-card-desc { font-family: 'Cormorant Garamond', Georgia, serif; /*font-style: italic;*/ font-size: 12px; color: var(--text3); }
 .campaign-detail-title {
   font-family: 'Cormorant SC', Georgia, serif; font-size: 28px; font-weight: 600;
-  letter-spacing: 0.04em; color: var(--text); font-style: italic;
+  letter-spacing: 0.04em; color: var(--text); /*font-style: italic;*/
 }
 
 /* Sélecteur d'items */
@@ -814,7 +814,7 @@ a:hover { color: #5bbdaa; }
 }
 .campaign-selectable-name {
   font-family: 'Cormorant SC', Georgia, serif; font-size: 13px; font-weight: 600;
-  letter-spacing: 0.04em; color: var(--text); font-style: italic;
+  letter-spacing: 0.04em; color: var(--text); /*font-style: italic;*/
 }
 
 
@@ -831,7 +831,7 @@ a:hover { color: #5bbdaa; }
   color: var(--text2); font-family: 'Cormorant Garamond', Georgia, serif;
 }
 .rulebook-toc-search input:focus { border-color: var(--accent); }
-.rulebook-toc-link { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 13px; font-style: italic; color: var(--text3); }
+.rulebook-toc-link { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 13px; /*font-style: italic;*/ color: var(--text3); }
 .rulebook-toc-link[data-level="1"] {
   font-family: 'Cormorant SC', Georgia, serif; font-size: 10px; font-weight: 600;
   letter-spacing: 0.08em; color: var(--text2); font-style: normal;
@@ -844,7 +844,7 @@ a:hover { color: #5bbdaa; }
 
 .rulebook-body h1 {
   font-family: 'Cormorant SC', Georgia, serif; font-size: 28px; font-weight: 600;
-  letter-spacing: 0.06em; color: var(--text); font-style: italic;
+  letter-spacing: 0.06em; color: var(--text); /*font-style: italic;*/
 }
 .rulebook-body h1::after {
   background: linear-gradient(90deg, var(--accent), var(--border2), transparent);
@@ -942,10 +942,10 @@ a:hover { color: #5bbdaa; }
 .auth-logo {
   font-family: 'Cormorant SC', Georgia, serif;
   font-size: 22px; font-weight: 600; letter-spacing: 0.1em;
-  color: var(--accent); text-align: center; font-style: italic;
+  color: var(--accent); text-align: center; /*font-style: italic;*/
 }
-.auth-logo span { font-family: 'Cormorant Garamond', Georgia, serif; font-weight: 400; color: var(--text3); font-style: italic; font-size: 17px; }
-.auth-tagline { font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: 13px; color: var(--text3); text-align: center; }
+.auth-logo span { font-family: 'Cormorant Garamond', Georgia, serif; font-weight: 400; color: var(--text3); /*font-style: italic;*/ font-size: 17px; }
+.auth-tagline { font-family: 'Cormorant Garamond', Georgia, serif; /*font-style: italic;*/ font-size: 13px; color: var(--text3); text-align: center; }
 .discord-btn {
   font-family: 'Cormorant SC', Georgia, serif; font-size: 13px; font-weight: 600;
   letter-spacing: 0.1em; border-radius: 2px;
