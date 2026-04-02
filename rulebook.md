@@ -30,6 +30,7 @@ Sélectionnez les scores d'attributs : Répartissez 3 points entre les attributs
 ## Montée de Niveau
 - Points d'expérience : Les PJ reçoivent des points d'expérience en fonction de la difficulté de la mission entreprise et de sa réussite.
 - Montée de niveau : À certains seuils d'XP, les PJ gagnent un niveau, ce qui ajoute 1 à trois attributs différents. Ne réinitialisez pas l'XP à zéro. Les trois scores peuvent être choisis par le joueur ou sélectionnés aléatoirement. Chaque niveau permet également au joueur de relancer le maximum de PV de son PJ en utilisant un d6 supplémentaire. Si le total lancé n'est pas supérieur à son dernier maximum, ajoutez 1 au dernier maximum.
+
 | Niveau |	XP Total |	PV Max |	Titre |
 | --- | --- | --- | --- |
 | 1 |	0 |	1d6 |	Novice |
