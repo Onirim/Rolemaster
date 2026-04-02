@@ -43,3 +43,19 @@ Les personnages joueurs (PJ) possèdent six attributs avec des scores notés de 
 | 8 |	125 000 |	8d6 |	? |
 | 9 |	250 000 |	9d6 |	? |
 | 10 |	500 000 |	10d6 |	Grand maître |
+
+## Tests
+
+Lorsqu'une créature tente quelque chose de risqué, elle effectue un test en lançant un d20 et en ajoutant l'un de ses attributs. Si son total atteint ou dépasse un nombre cible fixé par le MJ, elle réussit. Si une créature n'a pas d'attributs, le MJ peut utiliser son niveau, la moitié de son niveau ou zéro selon sa compétence dans la tâche. Les MJ ne devraient pas demander de vérifications pour des situations qui pourraient être résolues par la réflexion critique. Certaines actions peuvent être impossibles sauf si le PJ possède les outils ou carrières appropriés.
+
+**Fixer le nombre cible** : Commencez avec 11, puis ajoutez un niveau de difficulté de 0-10 (5 par défaut). Si le test est contre une autre créature, le niveau de difficulté est égal à son attribut pertinent ou son niveau. Dans une attaque, la difficulté est les Points d'Armure du défenseur (le nombre cible de 11 + PA est appelé Classe d'Armure).
+
+**Inverser les tests** : Il est possible de faire effectuer tous les jets aux joueurs en inversant les tests que le MJ fait habituellement. Exemple : un gobelin essayant de frapper un PJ pourrait ajouter son niveau au d20, tentant de toucher la Classe d'Armure du PJ (11 + les points d'armure du PJ). Ou, pour inverser le jet, le PJ pourrait ajouter ses points d'armure à un d20, visant un nombre cible de 11 + le niveau du gobelin.
+
+**Modificateurs** : Le MJ peut appliquer une pénalité de -5 pour chaque désavantage et un bonus de +5 pour chaque avantage que le joueur lançant possède sur un test. (par exemple, une carrière liée, une approche ingénieuse, du temps supplémentaire, les bons outils, etc.).
+
+**Tests sociaux** : Dans la plupart des cas, le résultat des interactions sociales peut être résolu avec du bon sens et du jeu de rôle, mais dans une situation risquée, le MJ peut demander un test. Ces tests sont effectuées en utilisant le CHA du PJ contre le WIS ou le CHA du PNJ, selon le contexte. Des modificateurs peuvent être appliqués en fonction de la disposition et de la relation de la cible avec le PJ, de l'alliance factionnelle ou morale, de la formulation du PJ, des pots-de-vin, des menaces, etc.
+
+**Tests de connaissances** : Les tests ne sont pas nécessaires pour qu'un PJ se souvienne de connaissances. Les PJ connaissent automatiquement toutes les connaissances communes et toute connaissance spécialisée couverte par leurs métiers. Toute autre connaissance doit être découverte en jeu.
+
+**Tests de fouille** : Les éléments cachés sont soit découverts automatiquement après suffisamment de temps passé à chercher (généralement dix minutes pour une salle ou une 4 heures pour un hexagone de 6km de large), soit ils ne peuvent pas être trouvés sans actions en jeu. Les caractéristiques évidentes d'une zone devraient être décrites immédiatement aux PJ, et les détails devraient être décrits au fur et à mesure que les joueurs posent des questions et enquêtent.
