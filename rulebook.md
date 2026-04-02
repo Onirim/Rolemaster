@@ -269,6 +269,7 @@ Si vous souhaitez déterminer les résultats d'une bataille, mais que la jouer a
 1. **Calculer la puissance de combat** : Additionnez la puissance de combat des unités de chaque camp. À la discrétion du MJ, améliorez ou réduisez la puissance de combat d'un camp de jusqu'à 50 % en fonction de son moral et de son positionnement. Le leader de chaque camp peut également effectuer un jet de CHA pour tenter d'améliorer la puissance de son camp de 50 % en prononçant un discours enflammé. L'important n'est pas les chiffres exacts mais la force relative de chaque camp par rapport à l'autre.
 
 2. **Établir le bonus** : Déterminez de combien le camp le plus fort est supérieur au camp le plus faible. Cela fournit le bonus que le camp le plus fort utilisera lors des prochains jets de bataille.
+
 | Supériorité |	Bonus |
 | --- | --- |
 | Jusqu'à 50 % plus fort |	+2 |
@@ -277,9 +278,9 @@ Si vous souhaitez déterminer les résultats d'une bataille, mais que la jouer a
 | Jusqu'à 4x plus fort |	+8 |
 |Plus de 4x plus fort |	+10 |
 
-4. **Jets de bataille** : Le camp le plus fort effectue trois jets en utilisant le bonus ci-dessus, visant à obtenir 11 ou mieux.
+3. **Jets de bataille** : Le camp le plus fort effectue trois jets en utilisant le bonus ci-dessus, visant à obtenir 11 ou mieux.
 
-5. **Choisir les résultats** : Chaque réussite permet au camp le plus fort de choisir secrètement un résultat dans la liste ci-dessous, et chaque échec permet au camp le plus faible de choisir secrètement un résultat. Le même résultat peut être choisi plusieurs fois. Une fois tous les choix effectués, ils sont révélés et résolus.
+4. **Choisir les résultats** : Chaque réussite permet au camp le plus fort de choisir secrètement un résultat dans la liste ci-dessous, et chaque échec permet au camp le plus faible de choisir secrètement un résultat. Le même résultat peut être choisi plusieurs fois. Une fois tous les choix effectués, ils sont révélés et résolus.
 
 - Capturer : Un PNJ ennemi est capturé.
 - Piller : Un objet ennemi est pillé.
@@ -289,3 +290,46 @@ Si vous souhaitez déterminer les résultats d'une bataille, mais que la jouer a
 - Protéger : Annule un résultat « Tuer ».
 
 Le camp qui choisit le plus de résultats (peu importe comment ils sont résolus) est le vainqueur de la bataille. L'autre camp doit se retirer du champ de bataille.
+
+## Temps Mort
+
+**Faire la fête** : La fête occupe toute une nuit et coûte au PJ d10×50c dans les villages, d10×100c dans les bourgs, et d10×200c dans les villes. Elle accorde également au PJ des points d'expérience (XP) égaux au montant dépensé. Le matin, il doit réussir un jet de CON ou subir un incident.
+
+1.	Vous vous êtes ridiculisé en public.
+2.	Subissez d3 dégâts directs à cause d'une bagarre.
+3.	Payez d100c d'amende.
+4.	Vous êtes fiancé(e).
+5.	Perdez d1000c au jeu.
+6.	Des groupies vous suivent partout.
+7.	Vous avez fait un ennemi.
+8.	Vous avez un tatouage laid et proéminent.
+9.	gueule de bois : subissez -5 à tous les jets aujourd'hui.
+10.	Vous avez rejoint une faction locale (p. 50).
+11.	Volé : Perdez toutes vos pièces restantes.
+12.	Vous vous réveillez en prison.
+13.	Le bâtiment est en feu !
+14.	On s'attend à ce que vous accomplissiez une mission (p. 51) à cause de vos vantardises.
+15.	Un duel est programmé pour l'aube prochaine.
+16.	Vous avez signé un contrat louche.
+17.	Le cadavre d'un étranger est sur le sol.
+18.	Une faction vous déteste (p. 50).
+19.	Tous vos biens ont été volés.
+20.	Vous rencontrez un nouveau compagnon qui veut rejoindre votre groupe.
+
+**Jeu d'argent** : Le joueur mise une certaine somme (jusqu'à une limite fixée par la maison), puis le MJ lance un d6. Le joueur fait ensuite un choix : soit il se retire et perd la moitié de sa mise, soit il tente de lancer un chiffre plus élevé sur un d6 que celui du MJ. S'il réussit, il double sa mise. S'il échoue, il perd toute sa mise.
+
+**Formation professionnelle** : Pour acquérir un nouveau métier, un PJ doit trouver un expert dans le domaine qu'il souhaite étudier et passer le temps et l'argent requis. Acquérir un métier donne au PJ des connaissances liées à cette carrière, la capacité d'entreprendre des tâches connexes et un bonus de +5 sur les jets de dé non-combat liés.
+
+- **Carrières courantes** : Nécessite 1 mois et 1000c (charpentier, chasseur, pêcheur, marin, teinturier, jardinier, forgeron, etc.).
+- **Carrières peu communes** : Nécessite 3 mois et 5000c pour tenter des tâches liées et 3 mois supplémentaires et 5000c pour obtenir un +5 aux jets de dé non-combat liés (voleur, acrobate, serrurier, pilleur de tombes, herboriste, tatoueur, prospecteur, etc.).
+- **Carrières rares** : Nécessite 1 an et 30 000c pour tenter des tâches liées et 1 an supplémentaire et 30 000c pour obtenir un +5 aux jets de dé non-combat liés (alchimiste, avocat, assassin, sculpteur, folkloriste, etc.).
+
+## Recrutement
+
+**Engagés** : 300c par mois. CA 11, PV 3, NIV 1, ATQ poing (d2), MV 40 pieds, MOR 4. 10 emplacements d'objets. Les engagés (comme les porteurs ou les porteurs de torches) effectuent des travaux non qualifiés et évitent le danger à tout prix. d10 sont disponibles dans un village, 3d10 dans un bourg, et 10d10 dans une ville. Relancez chaque mois.
+
+**Mercenaires** : 600c par mois. CA 15, PV 3, NIV 1, ATQ arme (d6), MV 40 pieds, MOR 8. 10 emplacements d'objets. Les mercenaires (comme des épéistes ou des archers) combattent pour les PJ mais n'entreront pas dans les lieux dangereux. d6 sont disponibles dans un village, 3d6 dans un bourg, et 10d6 dans une ville. Relancez chaque mois.
+
+**Experts** : 600c par mois pour les experts courants, 1200c par mois pour les experts peu communs, 2400c par mois pour les experts rares. CA 11, PV 3, NIV 1, ATQ poing (d2), MV 40 pieds, MOR 7. 10 emplacements d'objets. Les experts fournissent uniquement des services dans leur domaine d'expertise. Ils suivent les PJ dans leurs aventures, mais ne combattront pas ou ne se mettront pas en danger. Les experts courants (charpentiers, chasseurs, forgerons, etc.) se trouvent dans n'importe quel établissement, les experts peu communs (acrobates, brasseurs, serruriers, etc.) ne se trouvent que dans les bourgs et les villes, et les experts rares (alchimistes, magiciens, assassins, etc.) ne se trouvent que dans les villes.
+
+**Compagnons** : Les statistiques varient. Les compagnons sont générés comme un PJ, ne font pas de tests de moral, et combattront jusqu'à la mort pour leur employeur. Ils prennent une demi-part de tout trésor et XP trouvés et peuvent gagner des niveaux au fil du temps. Ils ne suivront que des PJ d'un niveau supérieur. Le CHA d'un PJ fixe le nombre maximum de compagnons qui suivront jamais le PJ au cours de sa vie.
