@@ -11,7 +11,7 @@ Les personnages joueurs (PJ) possèdent six attributs avec des scores notés de 
 
 ## Création de personnage
 - **Sélectionnez les scores d'attributs** : Répartissez 3 points entre les attributs de votre PJ. Plus d'un point peut être placé dans le même attribut. Ou, laissez le destin décider en lançant 3d6, chaque dé ajoutant 1 à l'attribut correspondant au numéro qu'il a affiché.
-> Exemple : un lancer de 3-5-5 signifie que CON (le 3ᵉ attribut) est à 1 et WIS (le 5ᵉ attribut) est à 2. Tous les autres attributs ont un score de 0.
+> Exemple : un lancer de 3-5-5 signifie que CON (le 3ᵉ attribut) est à 1 et SAG (le 5ᵉ attribut) est à 2. Tous les autres attributs ont un score de 0.
 
 - **Notez les statistiques secondaires** : Les PJ commencent au niveau 1 avec 0 Points d'Expérience. 
 - Ils ont 10 + CON **emplacements d'inventaire** et commencent avec **1d6 Points de Vie (PV) maximum**.
@@ -58,7 +58,7 @@ Lorsqu'une créature tente quelque chose de risqué, elle effectue un test en la
 
 **Modificateurs** : Le MJ peut appliquer une pénalité de -5 pour chaque désavantage et un bonus de +5 pour chaque avantage que le joueur lançant possède sur un test. (par exemple, une carrière liée, une approche ingénieuse, du temps supplémentaire, les bons outils, etc.).
 
-**Tests sociaux** : Dans la plupart des cas, le résultat des interactions sociales peut être résolu avec du bon sens et du jeu de rôle, mais dans une situation risquée, le MJ peut demander un test. Ces tests sont effectuées en utilisant le CHA du PJ contre le WIS ou le CHA du PNJ, selon le contexte. Des modificateurs peuvent être appliqués en fonction de la disposition et de la relation de la cible avec le PJ, de l'alliance factionnelle ou morale, de la formulation du PJ, des pots-de-vin, des menaces, etc.
+**Tests sociaux** : Dans la plupart des cas, le résultat des interactions sociales peut être résolu avec du bon sens et du jeu de rôle, mais dans une situation risquée, le MJ peut demander un test. Ces tests sont effectuées en utilisant le CHA du PJ contre la SAG ou le CHA du PNJ, selon le contexte. Des modificateurs peuvent être appliqués en fonction de la disposition et de la relation de la cible avec le PJ, de l'alliance factionnelle ou morale, de la formulation du PJ, des pots-de-vin, des menaces, etc.
 
 **Tests de connaissances** : Les tests ne sont pas nécessaires pour qu'un PJ se souvienne de connaissances. Les PJ connaissent automatiquement toutes les connaissances communes et toute connaissance spécialisée couverte par leurs métiers. Toute autre connaissance doit être découverte en jeu.
 
@@ -70,7 +70,7 @@ Utilisez les règles suivantes lorsque les PJ subissent une rencontre aléatoire
 
 **Distance par rapport au groupe** : Dans les environnements confinés avec une visibilité limitée comme en ville ou dans des donjons, les rencontres apparaissent à 2d6 × 3 mètres des PJ lorsque leur distance initiale est incertaine. Dans la nature, les grandes cavernes, ou autres espaces ouverts, elles apparaissent à 4d6 × 10 mètres de distance.
 
-**Surprise** : Si une rencontre se produit à moins de 25 mètres du groupe, le PJ le plus proche effectue un test de WIS contre le WIS de la créature rencontrée la plus proche. Si un côté gagne par 5 ou plus, il a surpris l'autre côté. Le côté qui surprend agit en premier au combat et gagne un bonus de +5 sur tous les jets de combat pendant le premier round.
+**Surprise** : Si une rencontre se produit à moins de 25 mètres du groupe, le PJ le plus proche effectue un test de SAG contre la SAG de la créature rencontrée la plus proche. Si un côté gagne par 5 ou plus, il a surpris l'autre côté. Le côté qui surprend agit en premier au combat et gagne un bonus de +5 sur tous les jets de combat pendant le premier round.
 
 **Activité** : L'activité actuelle des créatures rencontrées dépend du type de créature, de l'environnement, etc., mais le plus important est de les faire faire plus que simplement attendre l'arrivée des PJ. Cela devrait donner l'impression qu'elles ont une vie en dehors de l'aventure.
 
