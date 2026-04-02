@@ -258,4 +258,34 @@ D'un autre côté, un PJ qui s'efforce de rester dans la faveur d'une divinité 
 | Aisé |	Murs principalement en pierre avec quelques bois et briques, toit en bardeaux, sols en bois. C'est aussi le coût pour un cube de 2 mètres de murs de défense en pierre. |	1 000c |
 | Petite noblesse et châteaux |	Murs en pierre, toit en bardeaux, sols en dalles. Utilisation de matériaux comme le verre et le marbre, quelques fioritures architecturales mineures. |	5 000c |
 | Haute noblesse |	Murs en pierre, toit en pierre, sols carrelés, fenêtres en verre, hauts plafonds, fioritures architecturales significatives. |	50 000c |
-| Royal |	Murs en marbre, toit en pierre, sols en marbre, fenêtres en verre, plafonds voûtés, art partout. |	Non spécifié |
+| Royal |	Murs en marbre, toit en pierre, sols en marbre, fenêtres en verre, plafonds voûtés, art partout. |	100 000c |
+
+## Batailles
+
+Si vous souhaitez déterminer les résultats d'une bataille, mais que la jouer avec les règles de combat normales prendrait trop de temps, utilisez la procédure suivante.
+
+**Unités** : Déterminez la taille moyenne des unités à considérer dans votre campagne. Par exemple on peut considérer en tant qu'unité 20 miliciens peu entraînés, 15 archers ou 10 soldats entraînés. Chaque unité ainsi définie possède la même puissance de combat.
+
+1. **Calculer la puissance de combat** : Additionnez la puissance de combat des unités de chaque camp. À la discrétion du MJ, améliorez ou réduisez la puissance de combat d'un camp de jusqu'à 50 % en fonction de son moral et de son positionnement. Le leader de chaque camp peut également effectuer un jet de CHA pour tenter d'améliorer la puissance de son camp de 50 % en prononçant un discours enflammé. L'important n'est pas les chiffres exacts mais la force relative de chaque camp par rapport à l'autre.
+
+2. **Établir le bonus** : Déterminez de combien le camp le plus fort est supérieur au camp le plus faible. Cela fournit le bonus que le camp le plus fort utilisera lors des prochains jets de bataille.
+| Supériorité |	Bonus |
+| --- | --- |
+| Jusqu'à 50 % plus fort |	+2 |
+| Jusqu'à 2x plus fort |	+4 |
+| Jusqu'à 3x plus fort |	+6 |
+| Jusqu'à 4x plus fort |	+8 |
+|Plus de 4x plus fort |	+10 |
+
+4. **Jets de bataille** : Le camp le plus fort effectue trois jets en utilisant le bonus ci-dessus, visant à obtenir 11 ou mieux.
+
+5. **Choisir les résultats** : Chaque réussite permet au camp le plus fort de choisir secrètement un résultat dans la liste ci-dessous, et chaque échec permet au camp le plus faible de choisir secrètement un résultat. Le même résultat peut être choisi plusieurs fois. Une fois tous les choix effectués, ils sont révélés et résolus.
+
+- Capturer : Un PNJ ennemi est capturé.
+- Piller : Un objet ennemi est pillé.
+- Abattre : Tue 10 % des forces ennemies.
+- Sauver : Annule un résultat « Capture ».
+- Garder : Annule un résultat « Butin ».
+- Protéger : Annule un résultat « Tuer ».
+
+Le camp qui choisit le plus de résultats (peu importe comment ils sont résolus) est le vainqueur de la bataille. L'autre camp doit se retirer du champ de bataille.
