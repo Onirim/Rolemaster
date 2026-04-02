@@ -1,4 +1,4 @@
-Les Hirondelles utilisent le système de jeu [Knave 2nd édition de Ben Milton](https://questingblog.com/knave-2e/). Les règles maison utilisées seront ajoutées ici.
+Les Hirondelles utilisent le système de jeu [Knave 2nd édition de Ben Milton](https://questingblog.com/knave-2e/), dont les règles sont reproduites ici.
 
 ## Attributs des personnage
 Les personnages joueurs (PJ) possèdent six attributs avec des scores notés de 0 à 10 à ajouter aux jets de dés.
