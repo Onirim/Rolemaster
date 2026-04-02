@@ -196,7 +196,7 @@ D'un autre côté, un PJ qui s'efforce de rester dans la faveur d'une divinité 
 | Haute noblesse | 12 000c |
 | Royal | 120 000c |
 
-| Type d'objet | Détails | Prix |
+| Montures et véhicules | Détails | Prix |
 | --- | --- | --- |
 | Mulet | 50 emplacements | 30c |
 | Cheval de selle | 80 emplacements | 200c |
@@ -221,3 +221,41 @@ D'un autre côté, un PJ qui s'efforce de rester dans la faveur d'une divinité 
 | Basse noblesse |	Barons, comtes | 12 000c |
 | Haute noblesse | Ducs, princes | 60 000c |
 | Royal |	Rois, empereurs | 600 000c |
+
+## Bâtiments
+
+**Gestion d'un établissement** : Les établissements et autres investissements rapportent généralement d10 pour cent de leur coût chaque année en bénéfices, à condition que tout se passe comme prévu.
+
+**Location** : Jusqu'à ce qu'ils acquièrent beaucoup de richesse, les PJ loueront probablement la plupart des bâtiments qu'ils utilisent.
+
+| Location | Coût |
+| --- | --- |
+| Chambres communes | 2c/nuit |
+| Chambres privées | 10c/nuit |
+| Bâtiment | 1 % de sa valeur/mois |
+
+**Achat de bâtiments** : Les coûts suivants sont approximatifs et peuvent être affectés par l'état, l'importance, la taille, etc. d'un bâtiment. Les joueurs peuvent estimer le coût de bâtiments personnalisés en additionnant les coûts de plusieurs bâtiments qui pourraient le composer.
+
+| Type de bâtiment | Coût |
+| --- | --- |
+| Masure |	100c |
+| Chaumière modeste |	1 000c |
+| Maison respectable, chapelle |	10 000c |
+| Maison aisée, maison de guilde, théâtre, entrepôt |	50 000c |
+| Église, tour en pierre | 100 000c |
+| Petit château |	2 millions |
+| Manoir de petite noblese, temple, château moyen |	8 millions |
+| Grand château |	32 millions |
+| Domaine de haute noblesse, cathédrale |	100 millions |
+| Palais impérial, basilique |	400 millions |
+
+**Construction** : Le tableau ci-dessous liste le coût pour construire un carré de 2 mètres d'un bâtiment dans divers niveaux de luxe et en utilisant différents matériaux. Les plafonds sont supposés faire 3 mètres de haut. Le personnel d'un bâtiment (non commercial) coûte 50 % de son coût par an.
+
+| Style |	Description |	Coût par 2 mètres carrés |
+| Pauvre |	Murs en terre, toits de chaume, sols en terre. |	10c |
+| Modeste |	Murs en torchis avec quelques briques ou pierres de champ, toits de chaume, sols en roseaux. |	50c |
+| Respectable |	Murs en bois et brique avec quelques pierres, toit en bardeaux, sols en bois. |	250c |
+| Aisé |	Murs principalement en pierre avec quelques bois et briques, toit en bardeaux, sols en bois. C'est aussi le coût pour un cube de 2 mètres de murs de défense en pierre. |	1 000c |
+| Petite noblesse et châteaux |	Murs en pierre, toit en bardeaux, sols en dalles. Utilisation de matériaux comme le verre et le marbre, quelques fioritures architecturales mineures. |	5 000c |
+| Haute noblesse |	Murs en pierre, toit en pierre, sols carrelés, fenêtres en verre, hauts plafonds, fioritures architecturales significatives. |	50 000c |
+| Royal |	Murs en marbre, toit en pierre, sols en marbre, fenêtres en verre, plafonds voûtés, art partout. |	Non spécifié |
