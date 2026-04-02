@@ -1,6 +1,6 @@
 Les Hirondelles utilisent le système de jeu [Knave 2nd édition de Ben Milton](https://questingblog.com/knave-2e/), dont les règles sont reproduites ici.
 
-## Attributs des personnage
+## Attributs
 Les personnages joueurs (PJ) possèdent six attributs avec des scores notés de 0 à 10 à ajouter aux jets de dés.
 - **Force (FOR)** : L'attribut du Guerrier. Ajouté aux attaques au corps-à-corps et aux jets de dé nécessitant de la puissance comme l'escalade et le port de charges lourdes.
 - **Dextérité (DEX)** : L'attribut du Voleur. Ajouté aux jets de dé nécessitant agilité et réflexes comme esquiver, se faufiler, fouiller les poches, prestidigitation, etc.
